@@ -1,2 +1,3 @@
 # hello-deep
-first test repository created by me
+First test repository created by me. 
+This is completely for testing purposes.
