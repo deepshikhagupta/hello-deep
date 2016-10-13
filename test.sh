@@ -1,3 +1,3 @@
 echo "started"
 
-some crap!!!!
+echo "some crap!!!!"
